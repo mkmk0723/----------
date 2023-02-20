@@ -272,6 +272,7 @@
   background-color: #fff;
   border-radius: 10px;
   margin-bottom: 60px;
+  overflow: hidden;
   @include mq("md-l") {
    display: block;
    margin: 0 auto 60px;

@@ -365,6 +365,7 @@ img:not([alt]) {
   background-color: #fff;
   border-radius: 10px;
   margin-bottom: 60px;
+  overflow: hidden;
 }
 @media screen and (max-width: 820px) {
   .menu__list {
