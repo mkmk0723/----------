@@ -1173,10 +1173,6 @@ hr {
   transition: all 0.3s;
 }
 
-.c-arrow__inner:hover::before {
-  left: 20%;
-}
-
 .c-arrow__inner::after {
   content: "";
   position: absolute;
@@ -1189,10 +1185,6 @@ hr {
   transform-origin: right bottom;
   /*アニメーションの指定*/
   transition: all 0.3s;
-}
-
-.c-arrow__inner:hover::after {
-  right: -5%;
 }
 
 .c-arrow__circle {

@@ -1053,9 +1053,9 @@ padding: 0 20px;
   transition: all .3s;
 }
 
-.c-arrow__inner:hover::before {
-  left:20%
-}
+// .c-arrow__inner:hover::before {
+//   left:20%
+// }
 
 .c-arrow__inner::after {
   content: '';
@@ -1070,9 +1070,9 @@ padding: 0 20px;
   /*アニメーションの指定*/
   transition: all .3s;
 }
-.c-arrow__inner:hover::after {
-  right:-5%;
-} 
+// .c-arrow__inner:hover::after {
+//   right:-5%;
+// } 
 
 .c-arrow__circle {
   position: absolute;
